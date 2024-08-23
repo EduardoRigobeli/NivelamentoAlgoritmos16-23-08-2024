@@ -12,6 +12,6 @@ public class calculoDeReajusteDeSalarioInformandoReajuste {
 
 
         System.out.println("Com salario de "+salario+"R$ obtendo um reajuste de "+percReajuste+" porcento");
-        System.out.println("O valor reajustado fica "+salarioReajustado"R$");
+        System.out.println("O valor reajustado fica "+salarioReajustado+"R$");
     }
 }
