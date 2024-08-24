@@ -1,7 +1,7 @@
 import java.util.Scanner;
 //1. Escreva um progrma para ler 2 valores (valide para não aparecer
 // valores iguais) e escrever o maior deles.
-public class comparacaoMaoirNumero {
+public class comparacaoMaoirNumeroEntre2Valores {
     public static void main(String[] args) {
         Scanner prompt = new Scanner(System.in);
         System.out.print("Informe o primeiro numero: ");
